@@ -8,12 +8,15 @@ p {
 .anvi {
     color: #a90e0e;
     border: 2px double #8fa90e;
+
+    border-radius: 5px;
 }
 
 
 
 #avani{
     color: #37a90e;
+
     background-color: antiquewhite;
 }
 
