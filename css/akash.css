@@ -21,7 +21,8 @@ p {
 
     background-color: antiquewhite;
     padding: 5px;   
-    margin-top: 25px;
+    /* margin-top: 25px; */
+    margin-bottom: 25px; 
 }
 
 
