@@ -10,8 +10,8 @@ p {
     border: 2px double #8fa90e;
 
     border-radius: 5px;
-    padding: 5px;
-    margin: 15px;
+    padding: 10px;
+    margin: 5px;
 }
 
 
@@ -27,5 +27,30 @@ p {
 }
 
 
+#avi{
+    color: #b30101;
+    background-color: rgb(8, 87, 87);
+}
 
 
+
+#avi:hover {
+    color: #b30101;
+    background-color: rgb(8, 87, 87);
+
+}
+
+
+
+/* float right/left */
+
+<a href="https://www.linkedin.com/in/avni-sharma-91718631b/">
+  <img src="avni.jpg" alt="HTML tutorial" style=" float :left width:42px;height:42px;">
+</a>
+
+/* example 2 float left right */
+
+
+<a href="https://www.linkedin.com/in/avni-sharma-91718631b/">
+  <img src="avni.jpg" alt="HTML tutorial" style="float:right width:62px;height:10       2px;">
+</a>
