@@ -1,3 +1,20 @@
+
+body {
+    background-color: #d4cbcb;
+    background-image: url("/image/aspic.jpg"); 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
 p {
     color: #092a71;
     border: #a90e0e  2px dashed;
@@ -45,5 +62,4 @@ p {
 #avniFloat{
     float: right;
 }
-
 
