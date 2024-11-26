@@ -89,3 +89,8 @@ tr:nth-child(odd){
 tr:nth-child(even){
     background-color: #56c4e2;
 }
+
+
+tr:nth-child(3){
+    background-color: burlywood;
+}
