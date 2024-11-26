@@ -81,3 +81,9 @@ td,th{
     margin: 10px;
 }
 
+tr:nth-child(odd){
+    background-color: #1aa669;
+}
+
+
+tr:nth-child(even){
