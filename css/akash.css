@@ -63,3 +63,21 @@ p {
     float: right;
 }
 
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100px; ;
+}
+
+
+
+
+
+
+td,th{
+    border: 2px solid #c8c0c0;
+    padding: 10px;
+    text-ali: right;
+    margin: 10px;
+}
+
