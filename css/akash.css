@@ -94,3 +94,8 @@ tr:nth-child(even){
 tr:nth-child(3){
     background-color: burlywood;
 }
+
+
+th:nth-child(2),td:nth-child(2){
+    background-color: rgb(255, 255, 255);
+}
